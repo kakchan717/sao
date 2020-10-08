@@ -108,17 +108,35 @@
       }
     ]
   },
-  "moreapp_config": {
-    "moreapp": [
-      {
-        "title": "BTS 2048 Game",
-        "text": "An awesome game for ARMY and you never be bored",
-        "iconUrl": "https://www.dropbox.com/s/gzie290hrdwy9vs/icon_2.png?dl=1",
-        "mainImageUrl": "https://www.dropbox.com/s/t19pdyou0xg5iuf/cover.png?dl=1",
-        "actionUrl": "com.faizy.bts.game2048",
-        "stars": 5,
-        "numberOfUser": 100000
-      }
-    ]
-  }
+"moreapp_config": {
+  "moreapp": [
+    {
+      "title": "Mini-World Fan Art wallpaper HD 4K",
+      "text": "The best wallpaper app that a Mini World Block Art fan can not ignore",
+      "iconUrl": "https://i.pinimg.com/originals/1e/9d/73/1e9d7318a38273066b18469c3b2ea720.png",
+      "mainImageUrl": "https://i.pinimg.com/originals/90/73/d7/9073d7e6487b9fe393b94fcb0846c3e3.png",
+      "actionUrl": "com.milu.miniworld.wallpaper",
+      "stars": 5,
+      "numberOfUser": 100000
+    },
+    {
+      "title": "JoJo Anime Wallpaper HD 4K",
+      "text": "The best wallpaper app that a JoJo fan can not ignore",
+      "iconUrl": "https://i.pinimg.com/originals/e3/6b/fb/e36bfbafa3d7549e718860fb6f0de2f7.png,
+      "mainImageUrl": "https://i.pinimg.com/originals/09/bb/18/09bb188968c5a53978519c8546b0e586.png",
+      "actionUrl": "com.milu.jojo.wallpaper",
+      "stars": 5,
+      "numberOfUser": 100000
+    },
+    {
+      "title": "Zero Two Anime Wallpaper",
+      "text": "The best wallpaper app for Darling in the Franxx fans",
+      "iconUrl": "https://i.pinimg.com/originals/86/12/f7/8612f75c4a984322de5ef7947f6becfd.png",
+      "mainImageUrl": "https://i.pinimg.com/originals/b1/89/74/b189742943019e92f7286b9b4b327d40.png",
+      "actionUrl": "com.milu.zerotwo.wallpaper",
+      "stars": 5,
+      "numberOfUser": 100000
+    }
+  ]
+}
 }
