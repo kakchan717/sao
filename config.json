@@ -90,19 +90,19 @@
       {
         "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
         "target": "def",
-        "enable": true,
+        "enable": false,
         "show_price": true
       },
       {
         "data_file_url": "https://www.dropbox.com/s/3bv9a4vs4x12e82/item_sell_vi.json?dl=1",
         "target": "vn",
-        "enable": true,
+        "enable": false,
         "show_price": true
       },
       {
         "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
         "target": "us",
-        "enable": true,
+        "enable": false,
         "show_price": true
       }
     ]
