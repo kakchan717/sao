@@ -1,9 +1,8 @@
 {
   "ads_config": {
     "ad_waterfall": [
-      "facebook",
-      "unity",
       "admob",
+      "unity",
       "mopub"
     ],
     "ad_time": 0,
