@@ -2,10 +2,9 @@
   "ads_config": {
     "ad_waterfall": [
       "admob",
-      "unity",
-      "mopub"
+      "unity"
     ],
-    "ad_time": 0,
+    "ad_time": 10,
     "ad_model": [
       {
         "name": "admob",
@@ -20,27 +19,6 @@
         "banner_id": "banner",
         "popup_id": "video",
         "reward_id": "rewardedVideo"
-      },
-      {
-        "name": "mopub",
-        "app_id": "test_app",
-        "banner_id": "test_banner",
-        "popup_id": "test_popup",
-        "reward_id": "test_reward"
-      },
-      {
-        "name": "ironsource",
-        "app_id": "abc",
-        "banner_id": "DefaultBanner",
-        "popup_id": "DefaultInterstitial",
-        "reward_id": "DefaultRewardedVideo"
-      },
-      {
-        "name": "facebook",
-        "app_id": "test_app",
-        "banner_id": "test_banner",
-        "popup_id": "test_popup",
-        "reward_id": "test_reward"
       }
     ]
   },
@@ -88,19 +66,19 @@
   "shopping_config": {
     "shopping": [
       {
-        "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
+        "data_file_url": "",
         "target": "def",
         "enable": false,
         "show_price": true
       },
       {
-        "data_file_url": "https://www.dropbox.com/s/3bv9a4vs4x12e82/item_sell_vi.json?dl=1",
+        "data_file_url": "",
         "target": "vn",
         "enable": false,
         "show_price": true
       },
       {
-        "data_file_url": "https://www.dropbox.com/s/arxu8570dfih293/item_sell_us.json?dl=1",
+        "data_file_url": "",
         "target": "us",
         "enable": false,
         "show_price": true
