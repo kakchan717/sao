@@ -4,7 +4,7 @@
       "admob",
       "unity"
     ],
-    "ad_time": 10,
+    "ad_time": 20,
     "ad_model": [
       {
         "name": "admob",
