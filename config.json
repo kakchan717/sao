@@ -86,34 +86,26 @@
     ]
   },
   "moreapp_config": {
-    "moreapp": [
-      {
-        "title": "Mini-World Fan Art wallpaper HD 4K",
-        "text": "The best wallpaper app that a Mini World Block Art fan can not ignore",
-        "iconUrl": "https://i.pinimg.com/originals/1e/9d/73/1e9d7318a38273066b18469c3b2ea720.png",
-        "mainImageUrl": "https://i.pinimg.com/originals/90/73/d7/9073d7e6487b9fe393b94fcb0846c3e3.png",
-        "actionUrl": "com.milu.miniworld.wallpaper",
+     "moreapp": [
+     {
+        "title": "Kimetsu no Yaiba Wallpaper",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/8d/4b/1d/8d4b1d70ba795d659f890c92aab2e617.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/af/b5/d9/afb5d9e43dacea2b8571a67effa8921d.jpg",
+        "actionUrl": "com.kakchan.kimetsu.photo",
         "stars": 5,
         "numberOfUser": 100000
       },
-      {
-        "title": "JoJo Anime Wallpaper HD 4K",
-        "text": "The best wallpaper app that a JoJo fan can not ignore",
-        "iconUrl": "https://i.pinimg.com/originals/e3/6b/fb/e36bfbafa3d7549e718860fb6f0de2f7.png",
-        "mainImageUrl": "https://i.pinimg.com/originals/09/bb/18/09bb188968c5a53978519c8546b0e586.png",
-        "actionUrl": "com.milu.jojo.wallpaper",
-        "stars": 5,
-        "numberOfUser": 100000
-      },
-      {
-        "title": "Zero Two Anime Wallpaper",
-        "text": "The best wallpaper app for Darling in the Franxx fans",
-        "iconUrl": "https://i.pinimg.com/originals/86/12/f7/8612f75c4a984322de5ef7947f6becfd.png",
-        "mainImageUrl": "https://i.pinimg.com/originals/b1/89/74/b189742943019e92f7286b9b4b327d40.png",
-        "actionUrl": "com.milu.zerotwo.wallpaper",
+     {
+        "title": "Jujutsu Kaisen Wallpaper HD",
+        "text": "",
+        "iconUrl": "https://i.pinimg.com/564x/be/20/83/be2083effd1142e6f238bed4f03b0045.jpg",
+        "mainImageUrl": "https://i.pinimg.com/1200x/42/98/89/42988931e47dd4523d91a764516ff078.jpg",
+        "actionUrl": "com.kakchan.jujutsu.wallpaper",
         "stars": 5,
         "numberOfUser": 100000
       }
+  
     ]
   }
 }
