@@ -1,8 +1,9 @@
 {
   "ads_config": {
     "ad_waterfall": [
-      "admob",
-      "unity"
+      "facebook",
+      "unity",
+      "admob"
     ],
     "ad_time": 20,
     "ad_model": [
@@ -18,6 +19,13 @@
         "app_id": "3854303",
         "banner_id": "banner",
         "popup_id": "video",
+        "reward_id": "rewardedVideo"
+      },
+      {
+        "name": "facebook",
+        "app_id": "none",
+        "banner_id": "602857987336637_602859410669828",
+        "popup_id": "602857987336637_602859760669793",
         "reward_id": "rewardedVideo"
       }
     ]
@@ -86,8 +94,8 @@
     ]
   },
   "moreapp_config": {
-     "moreapp": [
-     {
+    "moreapp": [
+      {
         "title": "Kimetsu no Yaiba Wallpaper",
         "text": "",
         "iconUrl": "https://i.pinimg.com/564x/8d/4b/1d/8d4b1d70ba795d659f890c92aab2e617.jpg",
@@ -96,7 +104,7 @@
         "stars": 5,
         "numberOfUser": 100000
       },
-     {
+      {
         "title": "Jujutsu Kaisen Wallpaper HD",
         "text": "",
         "iconUrl": "https://i.pinimg.com/564x/be/20/83/be2083effd1142e6f238bed4f03b0045.jpg",
@@ -105,7 +113,6 @@
         "stars": 5,
         "numberOfUser": 100000
       }
-  
     ]
   }
 }
